@@ -132,8 +132,24 @@ Lastly I want to say THAAAAAAAANK YOU VEEEEEEERRRYYYY MUCH FOR BEING MY ADVICE A
 
 Sincerely,
 Gweeeennny :)`
-}
+},
+    
+{
+    name:"lovely",
+    video:null,
+    letter:`Hi Ma’am Jed,
+
+Thank you for teaching and guiding us. I’ve learned so much from you, not just in Chemistry but also in being patient, hardworking, and believing in myself. You made our lessons easier to understand and more meaningful.
+
+As our adviser, thank you for always supporting and caring for us. Your encouragement really helped me grow and become more confident.
+
+I will carry everything I’ve learned from you as I move on to Grade 12. Thank you for being such a great teacher. I will always remember you and the impact you made in my life.
+
+With gratitude,
+Allethia`}
 ];
+
+
 const video=document.getElementById("video");
 
 if(video){
