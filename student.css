@@ -1,0 +1,30 @@
+#orb-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+}
+
+/* Floating orbs */
+.orb {
+    position: absolute;
+    padding: 10px 15px;
+    border-radius: 50px;
+    background: rgba(122,122,255,0.2);
+    color: #fff;
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+    transition: 0.3s;
+}
+
+.orb:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 15px #7a7aff;
+}
+
+#bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
